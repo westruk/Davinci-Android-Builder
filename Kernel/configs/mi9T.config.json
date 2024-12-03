@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "InfinitykKernel",
-      "repo": "github.com/westruk/Infinity_mod.git", #without https
+      "repo": "github.com/westruk/Infinity_mod.git",
       "branch": "12.1",
       "device": "davinci",
       "defconfig": "davinci_defconfig"
